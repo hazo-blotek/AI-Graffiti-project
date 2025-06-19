@@ -1,7 +1,3 @@
-# 🔥 Creative Python Project: AI-Generated Digital Graffiti Wall
-# This project creates a terminal-based AI Graffiti Generator
-# Users type a message and the program uses style + color + ASCII effects to turn it into digital "graffiti"
-
 import random
 import time
 from colorama import Fore, Style, init
